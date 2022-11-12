@@ -94,6 +94,9 @@ a{
     border-radius: 4px;
     background-color: var(--secondary-color);
 }
+.btn:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,0 5px 50px 0 #15f4ee,0 5px 50px 0 #15f4ee inset,0 5px 50px 0 #15f4ee;
+}
 
 .object-fit{
     max-height: 120px;
